@@ -42,12 +42,6 @@ const router = createBrowserRouter([
         errorElement: <div>Gak boleh woy!!</div>,
       },
     ],
-    // children: [
-    //   {
-    //     errorElement: <ErrorPage />,
-
-    //   },
-    // ],
   },
 ]);
 
